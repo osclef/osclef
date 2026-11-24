@@ -1,5 +1,15 @@
-## Hi there 👋
 
+
+
+<img width="1456" height="920" alt="image" src="https://github.com/user-attachments/assets/a32f1244-19ad-4ac6-b5b2-c7df682d030e" />
+
+https://oscarcruzdiaz.vercel.app/
+
+
+https://github.com/os-cruz
+
+
+https://oscarcruzdiaz.vercel.app/
 <!--
 **osclef/osclef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
