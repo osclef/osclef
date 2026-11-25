@@ -1,6 +1,11 @@
 
 
 
+
+<img width="1868" height="1296" alt="image" src="https://github.com/user-attachments/assets/60fcffd4-5882-4104-8c52-9abaf89b3604" />
+
+
+
 <img width="1456" height="920" alt="image" src="https://github.com/user-attachments/assets/a32f1244-19ad-4ac6-b5b2-c7df682d030e" />
 
 https://oscarcruzdiaz.vercel.app/
